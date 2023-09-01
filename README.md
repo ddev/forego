@@ -1,3 +1,5 @@
+# ARCHIVED: USED ONLY TO BUILD DDEV's Legacy ddev-nginx-proxy-router.
+
 ## forego
 
 <a href="https://circleci.com/gh/ddollar/forego">
